@@ -6,7 +6,7 @@ As a project for the Advanced Coding Tools and Methodologies course we developed
 ## Modal scales
 For this project we have been based on modal scales, but, what are the modal scales?
 With the diatonic music there are seven different possible scales (the white keys of the keyboard starting from a note called tonic note). 
-
+![Modal Scales](https://raw.githubusercontent.com/MRMidc/COLOR-US/master/images/moda.jpeg)
 
 
 The difference between the different scales depends on the order of tones and semitones and the relation of the sound with the tonic note. Therefore, if we have the ionian scale in C: 
