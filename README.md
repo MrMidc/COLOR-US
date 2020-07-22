@@ -6,7 +6,7 @@ As a project for the Advanced Coding Tools and Methodologies course we developed
 ## Modal scales
 For this project we have been based on modal scales, but, what are the modal scales?
 With the diatonic music there are seven different possible scales (the white keys of the keyboard starting from a note called tonic note). 
-![Modal Scales](https://raw.githubusercontent.com/MRMidc/COLOR-US/master/images/moda.jpeg)
+![Modal Scales](https://raw.githubusercontent.com/MRMidc/COLOR-US/master/images/modal.JPG)
 
 
 The difference between the different scales depends on the order of tones and semitones and the relation of the sound with the tonic note. Therefore, if we have the ionian scale in C: 
@@ -27,16 +27,18 @@ Emotions are subjective, however there are defined emotions for each scale. Firs
 
 We have chosen three palettes of colors for each scale depending on the velocity of playing because according to the velocity of playing the scale can change a little bit the emotion that is expressing (e.g. the ionian can be sentimental when is played slowly).
 
+![Palette of colors](https://raw.githubusercontent.com/MRMidc/COLOR-US/master/images/emotion.JPG)
+
 
 
 ## User interface
 As it is said in the introduction this project is focused on a live performance instead of a web site. However, we designed a little user interface emulating the ‘scenario’ used for the project. 
 
-
+![Palette of colors](https://raw.githubusercontent.com/MRMidc/COLOR-US/master/images/interface.JPG)
 
 In this interface we have an input in which the user have to introduce the tonic note of the scale that he is going to play. This is the only part of the project in which the user has to interact with the interface, the rest has to be made by playing in a MIDI keyboard. 
 
-
+![Palette of colors](https://raw.githubusercontent.com/MRMidc/COLOR-US/master/images/input.JPG)
 
 Then we have two kind of windows that as it has been said before are emulating the real scenario that is going to be used as performance stage.
 ## Languages used
@@ -62,10 +64,14 @@ The project is meant to create an immersive visual live experience and for this 
 ### Software
 - MadMapper: A video mapping software in which you arrange the visuals and its bound for the projection mapping. By working with masks, it is possible to accommodate several visuals and give them a proper depth into 2-D or 3-D figures. In the Demo video there were around 28 animations that derive from 4 principal animations (Window of circles, the pallet color window, the water effect and the oscilloscope signal).
 
+![Palette of colors](https://raw.githubusercontent.com/MRMidc/COLOR-US/master/images/proy.JPG)
+
 - Screen Capture Syphon: Shares a whole/part of your screen, or a whole/part of a window as Syphon, and can send the video played area to another application as video. 
 Syphon is an open source Mac OS X technology that allows applications to share frames - full frame rate video or stills - with one another in real time.
 
 - Syphon Recorder: Works as a bridge between Screen Capture Syphon and MadMapper.
+
+![Palette of colors](https://raw.githubusercontent.com/MRMidc/COLOR-US/master/images/syphon.JPG)
 
 ### Hardware
 - Projector: We used a Epson 2150HD projector.
