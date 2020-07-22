@@ -101,3 +101,4 @@ We don’t want this to be a simple project for a Master course, we would like t
 - Read MIDI files. Maybe we just want to play music in an event without having an artist playing it, therefore an upgrade will add the functionality of reading MIDI files and do the exact thing as if an artist is playing it.
 - Communication with smart lighting technology that exists nowadays in the market as Hue Lights by Phillips or Lyfx in order to create a better environment for any performance at home.
 
+Here you can find a [DEMO](https://www.youtube.com/watch?v=NjXQ-qxsoL8)
